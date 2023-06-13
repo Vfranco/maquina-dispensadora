@@ -18,7 +18,7 @@ La aplicación debe mostrar un menu donde pueda realizar las operaciones en la m
 ```
 
 ## Composición
-1. La primera iteración de la aplicación no se espera una composición de archivos tan elaborada, la intención de la primera fase es validar el proceso de abstracción de la Maquina y el funcionamiento de la misma con base en las abstraccions
+1. La primera iteración de la aplicación no se espera una composición de archivos tan elaborada, la intención de la primera fase es validar el proceso de abstracción de la Maquina y el funcionamiento de la misma con base en las abstracciones
 
 2. Para la segunda fase, se busca definir el funcionamiento de la aplicación por medio de comandos y una base de arquitectura mejor definida
 
